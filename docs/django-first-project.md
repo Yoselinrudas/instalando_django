@@ -115,7 +115,7 @@ siguiente manera:
 
 ``` shell
 source venv/bin/activate
-django-admin startproject mysite
+django-admin startproject mysite .
 ```
 
 Tras la ejecución, la estructura de nuestro proyecto queda de la
